@@ -1,5 +1,5 @@
 # 19xx - M751 - DOC - WBSps.ca -2021-3-15-19-3-51.jpg
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -144,7 +144,7 @@ Ja
 
 ```json
 {
- "file": "Modules/COMMUNICATION/M751/19xx - M751 - DOC - WBSps.ca -2021-3-15-19-3-51.jpg",
+ "file": "Modules/COMMUNICATION/M751/MANUALS/19xx - M751 - DOC - WBSps.ca -2021-3-15-19-3-51.jpg",
  "sha256": "381d87584f21328a1348cc1c181d045f58432cab34cf3d0ef740300a95f4d69c",
  "kind": "doc",
  "models": [
