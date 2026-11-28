@@ -1,6 +1,6 @@
 # M751 Dual Memory Latch · Communication
 
-Ward-Beck Systems M751, 1971|4. Wiki page: [M751 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M751.html)
+Ward-Beck Systems M751, 1971|4. Wiki page: [M751 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M751-Dual-Memory-Latch/)
 
 | Folder | What is in it | Files |
 |---|---|---|

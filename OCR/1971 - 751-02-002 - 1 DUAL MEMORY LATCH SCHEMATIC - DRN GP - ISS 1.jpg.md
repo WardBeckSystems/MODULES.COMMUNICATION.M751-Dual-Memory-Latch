@@ -1,5 +1,5 @@
 # 1971 - 751-02-002 - 1 DUAL MEMORY LATCH SCHEMATIC - DRN GP - ISS 1.jpg
-Wiki page: [M751](../../../../PAGES/M751.md)
+Wiki page: [M751](../)
 
 
 - **Year:** 1971 (title block date)
